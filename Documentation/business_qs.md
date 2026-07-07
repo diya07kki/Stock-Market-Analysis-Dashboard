@@ -7,27 +7,33 @@ Build an interactive Excel dashboard to analyze the historical performance of se
 ## Business Questions
 
 ### Company Performance
-- Which company had the highest closing price?
-- Which company had the highest return?
-- Which company traded the highest volume?
+Which company had the highest closing price?
+Which company had the lowest closing price?
+Which company generated the highest overall return?
+Which company generated the lowest overall return?
+Which company had the highest average trading volume?
 
 ### Trend Analysis
-- How did stock prices change over time?
-- Which months showed the strongest performance?
-- Which months showed the weakest performance?
+How did stock prices change over time?
+Which months showed the strongest performance?
+Which months showed the weakest performance?
+Which company recorded the biggest one-day gain?
+Which company recorded the biggest one-day loss?
 
 ### Risk Analysis
-- Which company was the most volatile?
-- Which company was the least volatile?
-
-### Sector Analysis
-- Which sector performed the best?
-- Which sector performed the worst?
+Which company was the most volatile?
+Which company was the least volatile?
+Sector Analysis
+Which sector performed the best?
+Which sector performed the worst?
 
 ### Dashboard KPIs
-- Highest Closing Price
-- Lowest Closing Price
-- Average Closing Price
-- Total Trading Volume
-- Best Performing Company
-- Worst Performing Company
+Highest Closing Price
+Lowest Closing Price
+Average Closing Price
+Total Trading Volume
+Best Performing Company
+Worst Performing Company
+Biggest One-Day Gain
+Biggest One-Day Loss
+Most Volatile Company
