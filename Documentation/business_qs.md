@@ -37,3 +37,13 @@ Worst Performing Company
 Biggest One-Day Gain
 Biggest One-Day Loss
 Most Volatile Company
+
+
+### Data Quality Investigation
+
+ Why did ITC record an unusually large daily price drop on 1 January 2026?
+ Was the price movement caused by a genuine market event, a corporate action, or a data inconsistency?
+ Is the historical price and trading volume data accurate and consistently adjusted?
+ Should the observation be retained, corrected, or excluded from specific analyses?
+
+Status: Pending investigation and verification.

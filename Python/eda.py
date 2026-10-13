@@ -1,6 +1,12 @@
 import pandas as pd
 
-file = pd.read_csv("Dataset/raw/raw_stock_data.csv")
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+CLEANED_FILE = ROOT / "Dataset" / "cleaned" / "stock_data_cleaned.csv"
+
+file = pd.read_csv(CLEANED_FILE)
+
 print(file.head())
 print(file.columns.tolist())
 print(file.shape)
