@@ -19,3 +19,7 @@ Thumbs.db
 
 # Temporary Excel Files
 ~$*.xlsx
+
+# Environment variables and secrets
+.env
+.env.*
